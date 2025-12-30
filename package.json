@@ -1,0 +1,23 @@
+{
+  "name": "vercel_serverless_function_plus_resend_api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghyu25/vercel-serverless-function-plus-resend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ghyu25/vercel-serverless-function-plus-resend/issues"
+  },
+  "homepage": "https://github.com/ghyu25/vercel-serverless-function-plus-resend#readme",
+  "description": "",
+  "dependencies": {
+    "resend": "^6.6.0"
+  }
+}
